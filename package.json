@@ -1,0 +1,19 @@
+{
+  "name": "jquery-resizable-rotation-patch",
+  "version": "1.0.0",
+  "description": "jquery-resizable-rotation-patch\r ===============================\r Have you ever tried to resize rotated elements? I'm trying to solve this problem in several ways.",
+  "main": "resizable-rotation.patch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markqian/jquery-resizable-rotation-patch.git"
+  },
+  "author": "Mark Qian <kunqian@live.ca>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markqian/jquery-resizable-rotation-patch/issues"
+  },
+  "homepage": "https://github.com/markqian/jquery-resizable-rotation-patch#readme"
+}
